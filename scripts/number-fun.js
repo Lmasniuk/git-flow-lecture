@@ -14,10 +14,7 @@ function addTwenty(number) {
 }
 
 function addTwo(number) {
-    return number +2;
+    return number + 2;
 }
 
-function addTwenty(number) {
-    return number + 20;
-}
-export { addFive, multiplyByTen, subtractFour };
+export { addFive, multiplyByTen, subtractFour, addTwenty, addTwo };
