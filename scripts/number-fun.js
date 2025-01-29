@@ -9,5 +9,11 @@ function multiplyByTen(number) {
 function subtractFour(number) {
     return number - 7;
 }
+function addTwenty(number) {
+    return number + 20;
+}
 
+function addTwenty(number) {
+    return number + 20;
+}
 export { addFive, multiplyByTen, subtractFour };
