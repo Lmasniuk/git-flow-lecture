@@ -10,4 +10,8 @@ function subtractFour(number) {
     return number - 7;
 }
 
+function addTwo(number) {
+    return number +2;
+}
+
 export { addFive, multiplyByTen, subtractFour };
