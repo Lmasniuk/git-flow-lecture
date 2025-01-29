@@ -6,4 +6,8 @@ function yellSomething() {
     console.log("WHY ARE WE YELLING?!?!?");
 }
 
-export { saySomething, yellSomething };
+function whisperSomething() {
+    console.log("Shhhhh");
+}
+
+export { saySomething, yellSomething, whisperSomething };
