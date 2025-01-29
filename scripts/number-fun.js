@@ -13,6 +13,10 @@ function addTwenty(number) {
     return number + 20;
 }
 
+function addTwo(number) {
+    return number +2;
+}
+
 function addTwenty(number) {
     return number + 20;
 }
