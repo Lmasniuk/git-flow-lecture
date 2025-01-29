@@ -6,4 +6,8 @@ function multiplyByTen(number) {
     return number * 10;
 }
 
-export { addFive, multiplyByTen };
+function subtractFour(number) {
+    return number - 7;
+}
+
+export { addFive, multiplyByTen, subtractFour };
